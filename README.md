@@ -414,7 +414,7 @@ nohup sh train_refcocog.sh > train_refcocog.out &  # finetune for refcocog
 <pre>
 cd run_scripts/refcoco ; sh evaluate_refcoco.sh  # inference & evaluate for refcoco/refcoco+/refcocog
 </pre>
-</details> --> -->
+</details> -->
 
 ## Visual Entailment
 We provide steps for you to reproduce our results in visual entailment. See the details below.
